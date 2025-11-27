@@ -12,7 +12,7 @@ Welcome to the `Yeet!` project! This Git repository contains the source code for
 
 ## Getting Started
 To get started with the web chat application, follow these steps:  
-1. Clone the Git repository to your local machine using the command : `git clone https://github.com/aliktepl/AP2-EX3.git`  
+1. Clone the Git repository to your local machine using the command : `git clone https://github.com/aliktepl/yeet-chat-application.git`  
 2. To start the server navigate the the `/server` directory in the project directory and run the following command: `npm install` - this will install all the required dependencies. After that, run `npm start`.    
 3. Launch the Android emulator of your choice or connect a physical Android device to your computer.
 
